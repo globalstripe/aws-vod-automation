@@ -1,0 +1,15 @@
+**/*.zip
+**/help-wanted*
+**/testworkload
+**/mediainfo
+**/ziplambda.sh
+**/.chalice/deployments/
+**/.chalice/deploy
+**/.chalice/venv/
+**/.chalice/deployed.json
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
